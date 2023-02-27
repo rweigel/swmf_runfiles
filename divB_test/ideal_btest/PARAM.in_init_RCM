@@ -61,7 +61,6 @@ initial			NameArea
 all			NameArea
 
 ! Super high at inner boundary
-! to capture outflow patterns.
 #GRIDRESOLUTION
 1/16			Resolution
 box			NameArea
@@ -73,7 +72,6 @@ box			NameArea
  4.0                   	zMaxBox
 
 ! Strong resolution just outside
-! super-hi for clean outflow.
 ! Good res throughout lobes.
 #GRIDRESOLUTION
 1/8
